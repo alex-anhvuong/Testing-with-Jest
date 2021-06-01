@@ -1,0 +1,15 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "Learning to use Jest",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^27.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alex",
+  "license": "ISC"
+}
