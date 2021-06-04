@@ -1,0 +1,3 @@
+[submodule "jest-exercises"]
+	path = jest-exercises
+	url = https://github.com/alex-anhvuong/jest-exercises
